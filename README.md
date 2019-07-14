@@ -1,1 +1,1 @@
-# Numpy exercises
+# Numpy&Pandas exercises
